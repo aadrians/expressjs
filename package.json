@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Test website Arya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Arya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
